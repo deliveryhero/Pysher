@@ -5,7 +5,7 @@ import hmac
 import logging
 import json
 
-VERSION = '1.0.4'
+VERSION = '1.0.5'
 
 
 class Pusher(object):
